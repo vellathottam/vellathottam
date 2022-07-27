@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: donvellathottam9@gmail.com :incoming_envelope:
 
-- 🤔 In case you want to know more about me [Don J Vellathottam](vellathottam.github.io) :point_left::point_left:
+- 🤔 In case you want to know more about me [Don J Vellathottam](https://vellathottam.github.io/) :point_left::point_left:
 
 <!-- 😄 Pronouns: ...
 
